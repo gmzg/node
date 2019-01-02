@@ -1,0 +1,27 @@
+.userinfo-area {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    height: 50px;
+    display: flex !important;
+    align-items: center;
+}
+    .userinfo-btn {
+      height: 100%;
+      line-height: 50px;
+    }
+    .userinfo-btn>span {
+        display: inline-block;
+        height: 100%;
+        padding: 0 4px 0 0;
+      }
+#router-view>.hello{
+    font-size:30px;
+    text-align:center;
+    margin-top:200px;   
+}
+.active1{
+    font-weight: bold !important;
+    font-size:20px;
+}
+    
+  
